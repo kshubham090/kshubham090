@@ -19,14 +19,8 @@ Actively writing a research paper on neuro-symbolic AI centered around a four-la
 ![](https://streak-stats.demolab.com/?user=kshubham090&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kshubham090&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kshubham090&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kshubham090&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=kshubham090&icon=0&color=0)](https://visitcount.itsvg.in)
+                                                                                                                                                                                                          
+  ---                                                                                                                                                                                                                          [![](https://komarev.com/ghpvc/?username=kshubham090&label=Profile+views&color=0e75b6&style=flat)](https://komarev.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
