@@ -1,13 +1,25 @@
 # 😶‍🌫️ About Me:
-Currently living at the edge of what AI can actually do - agentic systems, LLMs, and everything in between.
+### hey, i'm shubham 👋
 
-Actively writing a research paper on neuro-symbolic AI centered around a four-layer architecture I've been      
-  designing and testing in production contexts. 
-  
-  The goal is AI that doesn't hallucinate its way into bad decisions ,  especially in high-stakes environments.
-  Most of my work lives in private repos. Each one has a README
-  that tells you what was built and why, without giving everything away. If something catches your eye, reach out.
+i build things at the edge of what AI can actually do right now — agentic systems, LLMs, physical AI, and the messy space in between where most of the interesting problems live.
 
+currently writing a research paper on neuro-symbolic AI. four-layer architecture, designed and tested in real contexts — not just on paper. the core idea is simple: AI that doesn't hallucinate its way into bad decisions, especially when the stakes are high.
+
+---
+
+### what i'm working on
+
+i'm the founder of **[Chakra47](https://chakra47.com)** — we're building the autonomous OS for physical AI.
+
+the short version: the physical world still doesn't have a brain. warehouses, drones, delivery systems, industrial machines — they're still running on manual coordination and human-in-the-loop for everything. we're changing that. chakra47 is the infrastructure layer that gives physical systems the ability to actually think, decide, and act on their own.
+
+it started as Symbiote-X — a governance architecture for autonomous systems. good research, but we wanted to build something people could actually use. so we shifted. now we're heads down building something real.
+
+---
+
+most of my work is in private repos. every one has a README that explains what was built and why — without giving the whole thing away.
+
+if something catches your eye, you know where to find me.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamgupta04907/) 
