@@ -23,7 +23,9 @@ if something catches your eye, you know where to find me.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamgupta04907/) 
-<img width="906" height="308" alt="image" src="https://github.com/user-attachments/assets/6db9f129-62e4-47bd-8429-0b84e811a4d7" />
+
+<img width="916" height="227" alt="image" src="https://github.com/user-attachments/assets/5cf28594-6964-43c1-835f-83d809f7374d" />
+
 
 
 # 💻 Tech Stack:
