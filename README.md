@@ -1,25 +1,26 @@
 # 😶‍🌫️ About Me:
-### hey, i'm shubham 👋
+### Hey, I'm Shubham
 
-i build things at the edge of what AI can actually do right now — agentic systems, LLMs, physical AI, and the messy space in between where most of the interesting problems live.
+I'm learning and building at the forefront of what AI can do right now.
 
-currently writing a research paper on neuro-symbolic AI. four-layer architecture, designed and tested in real contexts — not just on paper. the core idea is simple: AI that doesn't hallucinate its way into bad decisions, especially when the stakes are high.
+I am currently interning at **WINNIIO**, where I'm working on physical AI. This project aims to give real-world machines the ability to think, decide, and act independently.
 
----
+I am diving deep into the technologies that define this era, including agentic systems, RAG, LLMs, evaluations, and all the complex infrastructure in between. I focus less on theory and more on delivering results.
 
-### what i'm working on
+### What I'm Building
 
-i'm the founder of **[Chakra47](https://chakra47.com)** — we're building the autonomous OS for physical AI.
+**Agent Eval Harness** — *in progress.* These evaluations will control deployments instead of relying on scripts you run manually. They will catch behavior regressions in CI before they are deployed.
 
-the short version: the physical world still doesn't have a brain. warehouses, drones, delivery systems, industrial machines — they're still running on manual coordination and human-in-the-loop for everything. we're changing that. chakra47 is the infrastructure layer that gives physical systems the ability to actually think, decide, and act on their own.
+**LLM Gateway** — *coming soon.* This will serve as a proxy between applications and model providers. It will handle cost attribution, semantic caching, and routing with fallback options.
 
-it started as Symbiote-X — a governance architecture for autonomous systems. good research, but we wanted to build something people could actually use. so we shifted. now we're heads down building something real.
+**Agent Guardrails** — *coming soon.* This middleware will check what an agent plans to do before it takes action. It will include validation, retry with repair, and a kill switch.
 
----
+Most of my work is in private repositories, each with a README explaining what was built and why, without revealing everything.
 
-most of my work is in private repos. every one has a README that explains what was built and why — without giving the whole thing away.
+### Newsletter
+I send out information from me and the latest market trends every week. It's just a fun experiment. Feel free to join if you're interested.
 
-if something catches your eye, you know where to find me.
+[link here]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamgupta04907/) 
