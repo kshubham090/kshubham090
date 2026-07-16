@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: kshubham090
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#60a5fa,#ededeb&color_dots=#161616,#1e3a5f,#2c5f8f,#3f82c0,#60a5fa&color_empty=#161616
+            dist/github-contribution-grid-snake.svg?color_snake=#60a5fa&color_dots=#161616,#1e3a5f,#2c5f8f,#3f82c0,#60a5fa
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
