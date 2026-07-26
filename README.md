@@ -17,15 +17,12 @@ I am diving deep into the technologies that define this era, including agentic s
 
 Most of my work is in private repositories, each with a README explaining what was built and why, without revealing everything.
 
-### Newsletter
-I send out information from me and the latest market trends every week. It's just a fun experiment. Feel free to join if you're interested.
 
-[link here]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamgupta04907/) 
 
-<img width="916" height="227" alt="image" src="https://github.com/user-attachments/assets/5cf28594-6964-43c1-835f-83d809f7374d" />
+
 
 
 
