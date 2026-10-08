@@ -1,5 +1,5 @@
 <a href="https://shubham.cv">
-  <img src="./assets/terminal-header.svg" width="1120" alt="Shubham Gupta — Software engineer. AI systems, full-stack products. Build, inspect, improve." />
+  <img src="./assets/profile-banner-v3.svg" width="1120" alt="Shubham Gupta — Software engineer. AI systems, full-stack products. Build, inspect, improve." />
 </a>
 
 <p align="center">
