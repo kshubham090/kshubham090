@@ -18,19 +18,11 @@ I build software across **AI systems, backend infrastructure, and full-stack pro
 
 Previously worked with **WINNIIO / LifeAtlas** and **Stakrid**. Currently building **HUNT**, **Staffly**, **Chakra47**, and public tools for more dependable agents.
 
-```text
-shubham@github:~$ cat now.txt
+### Currently
 
-  +--------------------------------------------------+
-  |  [ build ] ----> [ inspect ] ----> [ improve ]    |
-  |      ^_________________________________|         |
-  +--------------------------------------------------+
+Building **Azure integrations** and **agent evaluation tools**, and improving **inference efficiency**.
 
-  building     products + the systems behind them
-  writing      Python · TypeScript · Java
-  exploring    Azure · agent reliability · efficient inference
-  graduating   July 2027
-```
+<sub>B.Tech in Computer Science (AI & ML) · Expected July 2027</sub>
 
 ## Products on the workbench
 
