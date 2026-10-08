@@ -1,43 +1,145 @@
-# 😶‍🌫️ About Me:
-### Hey, I'm Shubham
+<a href="https://shubham.cv">
+  <img src="./assets/terminal-header.svg" width="1120" alt="Shubham Gupta — Software engineer. AI systems, full-stack products. Build, inspect, improve." />
+</a>
 
-I'm learning and building at the forefront of what AI can do right now.
+<p align="center">
+  <a href="https://shubham.cv"><strong>Portfolio</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/shubhamgupta04907/"><strong>LinkedIn</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.gogethunt.com"><strong>HUNT</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://staffly-navy-psi.vercel.app"><strong>Staffly</strong></a>
+</p>
 
-I am currently interning at **WINNIIO**, where I'm working on physical AI. This project aims to give real-world machines the ability to think, decide, and act independently.
+## Hey, I'm Shubham.
 
-I am diving deep into the technologies that define this era, including agentic systems, RAG, LLMs, evaluations, and all the complex infrastructure in between. I focus less on theory and more on delivering results.
+I build software across **AI systems, backend infrastructure, and full-stack products**. My work ranges from agent evaluation and replay tools to the interfaces, APIs, and data models that make a product usable.
 
-### What I'm Building
+Previously worked with **WINNIIO / LifeAtlas** and **Stakrid**. Currently building **HUNT**, **Staffly**, **Chakra47**, and public tools for more dependable agents.
 
-**Agent Eval Harness** — *in progress.* These evaluations will control deployments instead of relying on scripts you run manually. They will catch behavior regressions in CI before they are deployed.
+```text
+shubham@github:~$ cat now.txt
 
-**LLM Gateway** — *coming soon.* This will serve as a proxy between applications and model providers. It will handle cost attribution, semantic caching, and routing with fallback options.
+  +--------------------------------------------------+
+  |  [ build ] ----> [ inspect ] ----> [ improve ]    |
+  |      ^_________________________________|         |
+  +--------------------------------------------------+
 
-**Agent Guardrails** — *coming soon.* This middleware will check what an agent plans to do before it takes action. It will include validation, retry with repair, and a kill switch.
+  building     products + the systems behind them
+  writing      Python · TypeScript · Java
+  exploring    Azure · agent reliability · efficient inference
+  graduating   July 2027
+```
 
-Most of my work is in private repositories, each with a README explaining what was built and why, without revealing everything.
+## Products on the workbench
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 01 / HUNT
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamgupta04907/) 
+<code>EARLY ACCESS</code>
 
+A workspace for overdue-invoice workflows, with configurable AI personas, invoice management, and conversation records.
 
+**[Explore HUNT →](https://www.gogethunt.com)**
 
+</td>
+<td width="50%" valign="top">
 
+### 02 / Staffly
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kshubham090&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![](https://streak-stats.demolab.com?user=kshubham090&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kshubham090&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+<code>LIVE MVP</code>
 
-                                                                                                                                                                                                          
-  ---                                                                                                                                                                                                                          [![](https://komarev.com/ghpvc/?username=kshubham090&label=Profile+views&color=0e75b6&style=flat)](https://komarev.com) 
+AI-assisted staffing for Stockholm warehouse and logistics teams, with reviewed offers, timesheets, and document drafts. Next.js, Supabase PostgreSQL, and an Azure OpenAI assistant.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-kshubham090/kshubham090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**[Explore Staffly →](https://staffly-navy-psi.vercel.app)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 03 / Chakra47
+
+<code>IN DEVELOPMENT</code>
+
+Apps for the physical world. Designing an application and management layer above existing Linux, RTOS, and robot controllers; the architecture is in development.
+
+**[Explore the architecture →](https://www.chakra47.com/)**
+
+</td>
+</tr>
+</table>
+
+## Open the source
+
+Tools I build to understand what an agent did, measure whether it worked, and make the next run better.
+
+| Repository | The interesting part |
+| :--- | :--- |
+| **[Agent Eval Harness](https://github.com/kshubham090/Agent-Eval-Harness)** | Connect Codex, Claude Code, Python, command, or HTTP agents. Evaluate outputs and tool trajectories, preserve failures, and catch regressions in CI. |
+| **[Contextual LLM Gateway](https://github.com/kshubham090/contextual-llm-gateway)** | Scoped pgvector + Neo4j memory, exact-response caching, durable graph updates, and bounded inference. Includes reproducible local embedding benchmarks. |
+| **[Relogged](https://github.com/kshubham090/relogged)** | Record LangGraph runs, inspect traces without rerunning tools, then fork at a corrected tool result and resume live. |
+| **[Chakra47 AgenticSwarm](https://github.com/kshubham090/Chakra47-AgenticSwarm)** | A separate public research project in governed multi-agent orchestration: deterministic rules, specialist agents, and tamper-evident decision trails. |
+| **[FlexFit Studio](https://github.com/kshubham090/flexfit-studio)** | A full-stack refactoring and debugging exercise: typed domain services, transactional booking flows, and regression tests around credits, capacity, and cancellations. |
+
+<details>
+<summary><strong>Research & experiments</strong></summary>
+
+### Research & evaluation
+
+- **[VAYAS / Vyaskosh](https://github.com/kshubham090/vayas-kosh)** — An age-stratified Hindi speech-recognition audit, with sampling protocols, per-clip results, and speaker-level analysis. [Published preprint on Zenodo](https://doi.org/10.5281/zenodo.22176362). A second Vyaskosh manuscript is in progress.
+- **[F1 lap-time & pit-stop prediction](https://github.com/kshubham090/f1-lap-time-pitstop-prediction)** — An XGBoost study examining evaluation leakage through grouped evaluation, SHAP explanations, and cross-season testing. [Published paper on Zenodo](https://doi.org/10.5281/zenodo.21862868).
+- **[AI essay detector](https://github.com/kshubham090/ai-essay-detector)** — A local token-probability experiment with explicit false-positive, generator-confound, and hybrid-text analysis. The limitations are part of the result.
+
+Presented the Chakra47 research project as **Symbiote-X at the India AI Impact Summit 2026**.
+
+Code, methods, and reported results live alongside the projects. A useful experiment should show where the approach stops working, too.
+
+</details>
+
+## Under the hood
+
+| Layer | Tools I work with |
+| :--- | :--- |
+| **Languages** | Python · TypeScript / JavaScript · Java · SQL · Bash |
+| **Products & APIs** | React · Next.js · Node.js · Spring Boot · FastAPI · REST · tRPC |
+| **Agents & ML** | LangGraph · LangChain · PyTorch · scikit-learn · Hugging Face · Codex · Claude Code |
+| **Data & operations** | PostgreSQL · pgvector · Neo4j · Redis · Supabase · Docker · GitHub Actions |
+| **Cloud** | Google Cloud · Microsoft Azure — currently going deeper on Azure |
+
+<details>
+<summary><strong>Learning log</strong></summary>
+
+**Completed**
+
+- Machine Learning Specialization — Stanford / Coursera
+- Java Spring Framework 6 & Spring Boot 3 — Udemy
+- Build and Secure Networks in Google Cloud — Google Cloud Skills Boost
+
+**In progress**
+
+- CUDA Python — NVIDIA DLI, 1 of 3 modules completed
+- NVIDIA NCA-AIIO preparation
+- Deeper work with Azure
+
+</details>
+
+<details>
+<summary><strong>One more thing: the contributions have a visitor.</strong></summary>
+
+<img src="https://raw.githubusercontent.com/kshubham090/kshubham090/output/github-contribution-grid-snake.svg" alt="An animated snake moving through Shubham's GitHub contribution grid." />
+
+Generated by the [workflow in this repository](./.github/workflows/snake.yml).
+
+</details>
+
+---
+
+<p align="center">
+  <code>good questions → small experiments → working software</code><br />
+  <a href="https://shubham.cv">See the projects in context</a> · <a href="https://www.linkedin.com/in/shubhamgupta04907/">Say hello</a>
+</p>
